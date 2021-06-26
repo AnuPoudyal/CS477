@@ -14,7 +14,7 @@ server.on("request", (req, res) => {
 });
 
 server.listen(3000, () => {
-  console.log("server started on port 3000");
+  console.log("server started at port 3000");
 });
 
 
